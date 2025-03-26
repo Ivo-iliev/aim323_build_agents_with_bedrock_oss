@@ -1,0 +1,51 @@
+company_name,investment_date,industry,technology_stack,funding_round,investment_amount_m,revenue_m,valuation_m,revenue_multiplier,equity_stake,exit_status,irr_percentage,analyst
+CyberNetworks,2017-10-28,FinTech,Java,Series C,20.87,2.0,16.13,8.07,9.54,Acquired,77.78,Sarah Johnson
+CyberScale,2019-01-31,Cybersecurity,Python,Seed,32.48,51.72,661.19,12.78,14.48,Active,,Sarah Johnson
+SmartConnect,2019-12-07,EdTech,AI/ML,Series B,48.78,94.54,483.07,5.11,16.42,Active,,Rachel Martinez
+AILabs,2017-02-05,AI/ML,Python,Series A,17.26,66.33,468.98,7.07,28.91,Active,,Michael Chen
+TechTechnologies,2019-01-01,HealthTech,Mobile,Seed,10.14,25.68,206.75,8.05,21.08,Active,,David Kim
+FinConnect,2015-08-06,SaaS,AI/ML,Series D,22.93,12.66,187.77,14.83,12.1,Merged,84.23,Emma Thompson
+HealthAnalytics,2021-04-22,BioTech,Mobile,Seed,36.85,8.59,162.11,18.87,5.41,Merged,57.69,Sarah Johnson
+AISystems,2019-02-23,CleanTech,Cloud Native,Series B,32.24,68.04,356.52,5.24,25.03,IPO,70.31,Rachel Martinez
+CloudLogic,2018-02-20,IoT,Big Data,Series A,16.86,51.3,997.93,19.45,18.18,Active,95.32,David Kim
+FinAnalytics,2019-09-30,EdTech,Mobile,Series D,34.79,15.84,119.58,7.55,23.12,Active,86.34,Sarah Johnson
+CyberSolutions,2019-09-06,AI/ML,Big Data,Series C,25.46,4.48,75.0,16.74,20.6,Acquired,,Rachel Martinez
+DataPlatform,2020-05-26,EdTech,Python,Series D,10.11,2.24,26.28,11.73,25.29,Merged,49.27,David Kim
+HealthLabs,2018-08-29,Cybersecurity,DevOps,Series C,23.89,94.99,1465.89,15.43,23.78,Active,36.98,Rachel Martinez
+SmartPlatform,2023-11-28,EdTech,Mobile,Series C,41.09,58.49,464.4,7.94,23.16,Acquired,,Michael Chen
+SmartLogic,2021-04-27,FinTech,Kubernetes,Series C,28.2,54.9,628.6,11.45,25.18,Active,49.51,David Kim
+BioLabs,2015-05-03,CleanTech,Kubernetes,Series A,15.83,79.82,1414.98,17.73,23.75,Merged,70.08,David Kim
+GreenSolutions,2019-06-24,AI/ML,Cloud Native,Series A,3.73,43.64,630.82,14.46,9.48,Active,,Sarah Johnson
+CyberAnalytics,2018-06-30,EdTech,Blockchain,Series A,36.32,95.03,563.05,5.93,29.58,Merged,49.33,Emma Thompson
+CloudConnect,2023-10-23,CleanTech,DevOps,Series B,47.54,17.04,309.04,18.14,19.54,IPO,78.76,Michael Chen
+DataSolutions,2022-09-21,HealthTech,React,Series A,25.98,88.91,1756.95,19.76,14.94,Active,,David Kim
+AIScale,2018-07-23,CleanTech,AI/ML,Seed,7.63,77.37,1370.46,17.71,19.13,Merged,,Michael Chen
+GreenSystems,2017-05-17,FinTech,DevOps,Seed,6.58,91.45,471.92,5.16,21.27,Active,75.34,Sarah Johnson
+CloudLabs,2024-07-26,FinTech,Java,Series A,43.4,15.75,104.53,6.64,24.96,Merged,33.78,Sarah Johnson
+CyberNetworks,2020-10-04,AI/ML,Cloud Native,Series B,32.07,74.52,1228.64,16.49,19.45,IPO,52.67,David Kim
+BioNetworks,2016-08-25,FinTech,DevOps,Seed,38.27,63.19,363.73,5.76,8.73,Merged,,Sarah Johnson
+HealthNetworks,2018-06-01,E-commerce,Mobile,Series D,22.88,78.71,1543.92,19.62,11.69,Acquired,,David Kim
+SmartLogic,2024-05-11,CleanTech,Blockchain,Series A,39.93,61.18,1180.02,19.29,14.18,Active,,Sarah Johnson
+FinPlatform,2019-12-03,HealthTech,Mobile,Series B,12.6,54.16,715.42,13.21,14.39,Acquired,,Michael Chen
+SmartSystems,2016-12-26,EdTech,Cloud Native,Seed,39.48,22.15,131.4,5.93,28.04,Merged,50.12,Rachel Martinez
+CyberScale,2022-05-02,HealthTech,Blockchain,Series A,15.59,94.29,1512.21,16.04,9.69,Acquired,82.45,David Kim
+CloudLogic,2017-11-02,HealthTech,Big Data,Series A,22.95,76.21,1312.43,17.22,13.36,Active,,Emma Thompson
+DataAnalytics,2019-01-30,HealthTech,Cloud Native,Series C,36.16,64.14,471.93,7.36,14.49,Merged,,Michael Chen
+GreenPlatform,2023-02-06,CleanTech,Blockchain,Series A,29.31,99.78,1870.82,18.75,14.25,Merged,,Emma Thompson
+SmartPlatform,2017-05-04,AI/ML,Mobile,Series A,19.21,73.3,1063.11,14.5,19.11,IPO,,Michael Chen
+DataLogic,2021-11-04,BioTech,Big Data,Series D,4.52,73.08,598.55,8.19,24.27,Active,88.89,David Kim
+FinLabs,2024-08-02,IoT,Mobile,Seed,20.81,96.25,761.6,7.91,26.26,IPO,,Sarah Johnson
+AIAnalytics,2017-09-25,IoT,Java,Series A,25.09,78.02,1489.89,19.1,10.42,Acquired,,Michael Chen
+CyberConnect,2017-01-24,AI/ML,Cloud Native,Series D,14.88,47.0,537.87,11.44,23.52,Active,71.61,Sarah Johnson
+CloudSystems,2022-06-09,EdTech,Python,Series C,35.02,5.93,67.62,11.4,15.08,IPO,27.97,Michael Chen
+FinPlatform,2019-06-14,AI/ML,Blockchain,Seed,5.8,25.78,202.78,7.87,17.15,Active,32.65,Michael Chen
+BioSystems,2023-11-09,IoT,Cloud Native,Series C,21.89,74.08,1471.79,19.87,9.01,IPO,44.7,Michael Chen
+HealthConnect,2023-01-19,EdTech,Blockchain,Series D,15.55,97.08,754.27,7.77,11.24,Merged,,Sarah Johnson
+SmartSolutions,2019-09-12,AI/ML,React,Seed,38.57,34.65,220.69,6.37,18.75,Active,94.72,Michael Chen
+TechAnalytics,2021-01-11,BioTech,DevOps,Series B,1.95,47.24,254.66,5.39,9.52,Active,30.32,David Kim
+AINetworks,2022-05-01,CleanTech,Python,Series D,38.63,44.45,513.82,11.56,14.57,Acquired,49.04,Sarah Johnson
+CyberScale,2018-07-26,BioTech,DevOps,Series B,11.09,26.63,298.71,11.22,25.01,Merged,,David Kim
+HealthConnect,2024-04-17,HealthTech,AI/ML,Series B,41.41,5.14,66.38,12.91,25.87,Active,,David Kim
+CyberNetworks,2017-12-07,SaaS,Kubernetes,Series C,48.19,97.63,936.55,9.59,17.78,Merged,29.63,Emma Thompson
+CyberLogic,2016-03-27,BioTech,Kubernetes,Seed,38.56,72.5,1304.6,17.99,21.47,IPO,65.63,Sarah Johnson
+TechTechnologies,2024-03-07,HealthTech,Kubernetes,Series B,41.55,76.28,1201.59,15.75,25.23,Merged,80.99,David Kim

@@ -1,0 +1,51 @@
+company_name,investment_date,industry,technology_stack,funding_round,investment_amount_m,revenue_m,valuation_m,revenue_multiplier,equity_stake,exit_status,irr_percentage
+AIScale,2025-03-07,E-commerce,Blockchain,Series A,9.58,75.55,1197.71,15.85,26.2,Acquired,62.65
+CyberPlatform,2016-06-16,AI/ML,Java,Series C,27.13,31.92,190.31,5.96,17.35,Acquired,95.76
+GreenConnect,2016-11-05,HealthTech,Kubernetes,Series C,37.6,17.05,204.28,11.98,22.54,Acquired,
+BioAnalytics,2018-12-08,EdTech,Big Data,Series A,47.64,35.52,196.67,5.54,22.63,Active,50.24
+CyberTechnologies,2021-05-02,Cybersecurity,Blockchain,Seed,26.72,59.32,494.07,8.33,26.73,Acquired,20.91
+CloudConnect,2021-05-19,AI/ML,Kubernetes,Series C,9.46,79.99,957.48,11.97,9.9,Active,66.81
+FinLogic,2016-11-08,Cybersecurity,React,Series A,33.72,88.32,1195.97,13.54,26.19,IPO,93.27
+GreenLabs,2023-10-23,Cybersecurity,React,Series D,44.06,83.56,729.5,8.73,16.71,Active,47.71
+GreenPlatform,2019-09-26,FinTech,Kubernetes,Seed,2.73,24.49,486.8,19.88,11.07,IPO,
+AILogic,2023-09-20,BioTech,React,Series B,14.92,20.75,118.08,5.69,29.23,Active,
+AISolutions,2024-12-25,FinTech,React,Seed,24.46,77.62,668.27,8.61,24.93,Active,
+CloudLabs,2024-10-20,EdTech,Python,Series D,14.79,51.49,822.48,15.97,6.53,Active,49.61
+TechNetworks,2018-07-25,Cybersecurity,Mobile,Series D,41.86,46.25,439.0,9.49,15.14,Active,
+CloudConnect,2017-11-07,EdTech,Kubernetes,Series A,35.29,8.87,149.27,16.83,17.66,Acquired,53.89
+DataTechnologies,2022-07-11,FinTech,Blockchain,Seed,4.54,43.4,456.38,10.52,25.08,Active,
+BioSystems,2019-08-27,SaaS,Cloud Native,Series B,46.81,80.11,1537.15,19.19,11.64,Merged,48.65
+FinSolutions,2016-02-28,CleanTech,Java,Series C,35.87,10.34,133.69,12.93,17.69,Acquired,30.03
+BioNetworks,2023-12-19,FinTech,Kubernetes,Series C,26.8,14.0,87.99,6.29,7.81,Active,50.95
+CyberAnalytics,2017-09-26,EdTech,Java,Series A,43.78,25.97,506.85,19.52,8.78,Active,
+AITechnologies,2024-10-14,E-commerce,Big Data,Series A,37.82,88.06,1022.02,11.61,17.33,Merged,36.26
+AIConnect,2021-08-14,BioTech,Python,Series C,6.62,63.4,473.06,7.46,26.36,Merged,56.58
+CyberScale,2022-06-27,EdTech,Kubernetes,Series D,2.99,57.97,664.94,11.47,22.72,IPO,
+TechSystems,2021-01-11,CleanTech,Python,Series B,26.42,76.52,1096.44,14.33,14.69,Acquired,50.12
+TechPlatform,2020-01-24,Cybersecurity,Mobile,Series C,43.83,11.04,203.49,18.43,16.8,IPO,56.4
+GreenTechnologies,2018-12-01,BioTech,Big Data,Seed,8.63,79.99,1578.63,19.74,17.23,Acquired,50.58
+CloudLogic,2021-08-08,HealthTech,Kubernetes,Series B,45.17,23.45,372.73,15.89,7.77,Active,25.08
+TechAnalytics,2023-12-28,AI/ML,React,Series A,3.29,40.6,719.7,17.73,22.65,Merged,15.6
+AIPlatform,2016-09-29,Cybersecurity,DevOps,Series D,28.38,6.85,134.45,19.63,24.4,Active,23.5
+SmartAnalytics,2022-09-15,E-commerce,AI/ML,Series C,6.69,70.36,1302.19,18.51,9.53,Acquired,
+TechPlatform,2023-11-10,EdTech,Kubernetes,Series A,3.78,67.54,1064.8,15.77,21.46,Acquired,48.56
+HealthAnalytics,2022-06-28,IoT,Big Data,Series B,12.66,44.04,273.23,6.2,9.43,Acquired,68.98
+BioTechnologies,2020-02-07,E-commerce,Java,Seed,21.83,94.29,1771.77,18.79,16.24,Merged,22.39
+AINetworks,2016-07-15,HealthTech,Cloud Native,Series D,32.15,17.0,144.55,8.5,12.06,IPO,
+HealthSystems,2024-08-17,AI/ML,Blockchain,Series A,28.29,73.93,1348.87,18.25,10.7,IPO,
+FinAnalytics,2016-12-10,FinTech,Big Data,Series D,47.12,49.8,318.07,6.39,14.32,Active,
+SmartSolutions,2018-06-22,E-commerce,AI/ML,Series C,36.42,70.73,905.88,12.81,27.39,Active,27.47
+BioSystems,2015-05-26,E-commerce,AI/ML,Series C,26.73,67.51,841.35,12.46,28.68,Active,
+SmartLogic,2024-04-23,CleanTech,Big Data,Seed,21.7,64.96,436.62,6.72,8.25,Acquired,99.77
+HealthPlatform,2023-03-02,Cybersecurity,DevOps,Series C,6.41,28.48,327.44,11.5,13.02,Acquired,
+FinLogic,2015-08-04,E-commerce,Kubernetes,Series D,11.46,17.3,128.14,7.41,20.92,Acquired,40.19
+BioLogic,2021-07-30,FinTech,Mobile,Series D,34.44,47.88,602.46,12.58,8.71,Active,
+CloudSolutions,2025-03-15,IoT,Kubernetes,Series D,28.07,75.04,504.77,6.73,5.59,IPO,
+TechConnect,2015-08-20,HealthTech,React,Series B,9.12,74.1,742.66,10.02,20.94,Merged,37.9
+HealthSystems,2024-07-18,SaaS,DevOps,Series A,25.76,76.69,574.91,7.5,16.46,Active,
+AINetworks,2019-05-16,EdTech,Kubernetes,Series D,38.99,34.19,587.61,17.19,21.3,Active,
+SmartSolutions,2020-11-24,BioTech,Blockchain,Series D,46.65,97.05,1199.87,12.36,12.22,Active,98.42
+GreenSystems,2018-05-06,CleanTech,Python,Series A,12.7,10.98,184.02,16.76,12.12,IPO,68.03
+FinNetworks,2024-08-18,FinTech,Cloud Native,Series C,39.18,18.57,322.56,17.37,18.82,Active,80.46
+HealthAnalytics,2022-12-09,AI/ML,Java,Series C,44.4,13.88,196.88,14.18,24.6,IPO,97.3
+HealthConnect,2020-12-28,BioTech,Cloud Native,Series A,21.27,29.07,298.35,10.26,28.98,Active,
